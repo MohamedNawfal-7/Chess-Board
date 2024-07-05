@@ -1,0 +1,29 @@
+.a{
+    background-color:white;
+    
+}
+.b{
+    background-color: black;
+}
+table,tr,td{
+    border: 2px solid rgb(10, 10, 10);
+    border-collapse: collapse;
+    width: 700px;
+    height: 600px;
+}
+td,tr{
+    width: 30px;
+    height: 30px;
+}
+.cnt{
+    padding: 10px;
+    margin-left: 370px;
+    
+}
+body{
+    background-color: beige;
+}
+.center{
+    padding: 10px 10px;
+    padding-left: 22%;
+}
